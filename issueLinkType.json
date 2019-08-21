@@ -1,0 +1,81 @@
+{
+  "issueLinkTypes": [
+    {
+      "id": "10220",
+      "name": "Breaks down",
+      "inward": "contributes to",
+      "outward": "breaks down into",
+      "self": "https://jira.sonarsource.com/rest/api/2/issueLinkType/10220"
+    },
+    {
+      "id": "10002",
+      "name": "Depends upon",
+      "inward": "is depended upon by",
+      "outward": "depends upon",
+      "self": "https://jira.sonarsource.com/rest/api/2/issueLinkType/10002"
+    },
+    {
+      "id": "10020",
+      "name": "Deprecate",
+      "inward": "is deprecated by",
+      "outward": "deprecates",
+      "self": "https://jira.sonarsource.com/rest/api/2/issueLinkType/10020"
+    },
+    {
+      "id": "10000",
+      "name": "Duplicate",
+      "inward": "is duplicated by",
+      "outward": "duplicates",
+      "self": "https://jira.sonarsource.com/rest/api/2/issueLinkType/10000"
+    },
+    {
+      "id": "10320",
+      "name": "Problem/Incident",
+      "inward": "is caused by",
+      "outward": "causes",
+      "self": "https://jira.sonarsource.com/rest/api/2/issueLinkType/10320"
+    },
+    {
+      "id": "10120",
+      "name": "Related",
+      "inward": "is related to",
+      "outward": "relates to",
+      "self": "https://jira.sonarsource.com/rest/api/2/issueLinkType/10120"
+    },
+    {
+      "id": "10001",
+      "name": "Relates",
+      "inward": "is related to",
+      "outward": "relates to",
+      "self": "https://jira.sonarsource.com/rest/api/2/issueLinkType/10001"
+    },
+    {
+      "id": "10011",
+      "name": "Rule replacement",
+      "inward": "is replaced by",
+      "outward": "replaces",
+      "self": "https://jira.sonarsource.com/rest/api/2/issueLinkType/10011"
+    },
+    {
+      "id": "10010",
+      "name": "Rule specification",
+      "inward": "is implemented by",
+      "outward": "implements",
+      "self": "https://jira.sonarsource.com/rest/api/2/issueLinkType/10010"
+    },
+    {
+      "id": "10121",
+      "name": "Supercedes",
+      "inward": "is superceded by",
+      "outward": "supercedes",
+      "self": "https://jira.sonarsource.com/rest/api/2/issueLinkType/10121"
+    },
+    {
+      "id": "10122",
+      "name": "dependent",
+      "inward": "is depended upon by",
+      "outward": "depends upon",
+      "self": "https://jira.sonarsource.com/rest/api/2/issueLinkType/10122"
+    }
+  ]
+}
