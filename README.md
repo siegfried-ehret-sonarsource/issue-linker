@@ -1,5 +1,9 @@
 # issue-linker
 
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=siegfried-ehret-sonarsource_issue-linker&metric=alert_status)](https://sonarcloud.io/dashboard?id=siegfried-ehret-sonarsource_issue-linker)
+
+## description
+
 Link all tickets from a SCD description from [SonarSource's Jira instance](https://jira.sonarsource.com/).
 
 The SCD description must follow the format we have [here](https://jira.sonarsource.com/browse/SCD-123).
