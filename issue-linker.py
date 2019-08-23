@@ -39,7 +39,7 @@ def process(jira, scd_key, dry_run):
             issue_key = regex.search(line).group(1)
             print(issue_key)
             number_of_issues_linked = number_of_issues_linked + 1
-            if dry_run:
+            if not dry_run:
                 jira.create_issue_link("Breaks down", scd_key, issue_key)
 
     print(f'Linked {number_of_issues_linked} tickets')
