@@ -25,7 +25,6 @@ def process(jira, scd_key, dry_run):
     issue = jira.issue(scd_key)
     description = issue.fields.description
 
-    lines = []
     add = False
 
     regex = re.compile(r"\[.*\]\s+([A-Z]+-\d+)\s+.*")
